@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "blog/test1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "blog/test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "blog/test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "blog/test1.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "103b329aab60df76",
   "lastOpenFiles": [
+    "index.md",
+    "blog/test1.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "blog/test1.md"
+    "Untitled 1.canvas"
   ]
 }
