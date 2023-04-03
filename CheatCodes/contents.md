@@ -1,2 +1,2 @@
 # List of Cheat Codes
-1. [arcpy](/sirishdasari.github.io/cheatcodes/arcpy.md)
+1. [arcpy](/cheatcodes/arcpy.md)

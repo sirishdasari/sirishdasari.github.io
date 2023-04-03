@@ -7,4 +7,4 @@ description: "This is a brief introduction to Python"
 ---
 
 Python
-![Alt text](../../images/icon.png)
+![Alt text](assets/Capture.PNG)
